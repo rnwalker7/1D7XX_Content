@@ -12,7 +12,7 @@ content that makes the training "stick" better!
   - The exception is simple key-value pairs that can be stored in "scratch space".
 - Must be exportable to a React.js app.
 - Place the content for your shred in your respective folder.
-- **Please commit to the correct branch...the main branch is a PL1 Resource. USE OF DEADLY FORCE AUTHORIZED.**
+- **Please commit to the correct branch. By order of the project manager, the main branch is a restricted area. USE OF DEADLY FORCE AUTHORIZED.**
 - Be creative!
 
 ## POCs:
