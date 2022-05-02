@@ -17,4 +17,3 @@ content that makes the training "stick" better!
 ## POCs:
 MSgt Rob Walker - DSN 597-4694  
 MSgt Jessica Cain - DSN 597-0363  
-MSgt Adam Roush - DSN 597-0277
