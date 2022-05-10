@@ -3,7 +3,7 @@ Interactive content for the 1D7XX/X AFSCs (to be hosted on Digitize)
 
 ## Purpose
 This repo is to be used for the creation and hosting of interactive content for the 1D7XX/X Learning Programs. Currently, outside of Skillsoft courses,
-there is no interactive content, with PDFs, AFIs, and TOs filling in the gaps. As you can probably guess, this is not conducive to rentention of info
+there is no interactive content, with PDFs, AFIs, and TOs filling in the gaps. As you can probably guess, this is not conducive to retention of info
 in today's learning environments (think about how much info you currently retain from click-click-click-done CBTs). The goal here is to create interactive
 content that makes the training "stick" better!
 
